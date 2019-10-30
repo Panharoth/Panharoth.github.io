@@ -1,0 +1,28 @@
+h3{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    word-spacing: 10px;
+    text-align: center;
+}
+#first-header{
+    color: rgb(233, 171, 171)
+}
+.inline-header {
+    display: inline;
+}
+
+#border-header {
+    border: solid;
+    padding: 40px;
+    margin: 80px;
+    text-align: center;
+    font-size:50x;
+}
+#header-group{
+    border: solid;
+    border-color: ;
+}
+#span-text {
+    color: black;
+    font-weight:700;
